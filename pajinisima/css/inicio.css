@@ -1,0 +1,42 @@
+* {
+	font-family: 'Lobster', cursive;
+	font-weight: 100;
+	font-style: normal;
+	border-radius: 10px;
+
+
+}
+
+.div-1 {
+	box-shadow: 4px 7px 10px 0 #000;
+}
+
+body {
+	padding: 100px;
+}
+
+.a1 {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+	left: 0;
+}
+header {
+	background: blue;
+	text-align: center;
+	position: fixed;
+	margin: -100px;
+	display: block;
+	box-shadow: 1px 4px 15px 0px #000;
+	text-shadow: 2px 3px 7px #fff;
+}
+
+div {
+	background: red;
+	text-shadow: 1px 2px 7px #fff;
+
+}
+footer {
+
+	margin: 40px;
+}
